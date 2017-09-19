@@ -4,7 +4,7 @@
     fichier [./Rapports.md](./Rapports.md)**
 -   le rapport terminal doit être rédiger en Latex dans le répertoire [./rapports](rapports)
 
-# Résolution du système d'équations de Saint-Venant
+# Résolution de l'équation de Richards
 
 ## Objectif final, très ambitieux.
 
