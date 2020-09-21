@@ -1,7 +1,8 @@
 # Pour l'évaluation
 
--   **Prendre 10 min à chaque fin de séance pour écrire ce qu'on a fait dans le
-    fichier [./Rapports.md](./Rapports.md)**
+-   **Prendre 10 min à chaque fin de séance pour écrire ce qu'on a fait
+    dans le fichier
+    [./rapports_hebdomadaires.md](./rapports_hebdomadaires.md)**
 -   le rapport terminal doit être rédiger en Latex dans le répertoire [./rapports](rapports)
 
 # Résolution de l'équation de Richards
